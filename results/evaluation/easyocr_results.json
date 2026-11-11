@@ -1,0 +1,702 @@
+[
+  {
+    "filename": "P0001.jpg",
+    "image_type": "Original",
+    "text": "NtxcHul",
+    "confidence": 0.2193499569436629,
+    "time": 1.627737499991781
+  },
+  {
+    "filename": "P0001.jpg",
+    "image_type": "Preprocessed",
+    "text": "NtxcHu",
+    "confidence": 0.42136061727009644,
+    "time": 1.5375400999910198
+  },
+  {
+    "filename": "P0002.jpg",
+    "image_type": "Original",
+    "text": "Inari",
+    "confidence": 0.20838478014922784,
+    "time": 1.415860100009013
+  },
+  {
+    "filename": "P0002.jpg",
+    "image_type": "Preprocessed",
+    "text": "Indeen;,",
+    "confidence": 0.40711916167663054,
+    "time": 1.5088740999926813
+  },
+  {
+    "filename": "P0003.jpg",
+    "image_type": "Original",
+    "text": "Indcven",
+    "confidence": 0.21925692930696417,
+    "time": 1.554419499996584
+  },
+  {
+    "filename": "P0003.jpg",
+    "image_type": "Preprocessed",
+    "text": "Indfven",
+    "confidence": 0.30175727895508575,
+    "time": 1.4548894000035943
+  },
+  {
+    "filename": "P0004.jpg",
+    "image_type": "Original",
+    "text": "Losfu",
+    "confidence": 0.29994858224686377,
+    "time": 1.5828675999946427
+  },
+  {
+    "filename": "P0004.jpg",
+    "image_type": "Preprocessed",
+    "text": "Losfas",
+    "confidence": 0.06189476165227862,
+    "time": 1.5465566000057152
+  },
+  {
+    "filename": "P0005.jpg",
+    "image_type": "Original",
+    "text": "Rwed]",
+    "confidence": 0.14221863922807126,
+    "time": 1.4950112000078661
+  },
+  {
+    "filename": "P0005.jpg",
+    "image_type": "Preprocessed",
+    "text": "Ano]]",
+    "confidence": 0.2173324603639029,
+    "time": 1.4254641000006814
+  },
+  {
+    "filename": "P0006.jpg",
+    "image_type": "Original",
+    "text": "HSy}",
+    "confidence": 0.23540880884991397,
+    "time": 1.464774900014163
+  },
+  {
+    "filename": "P0006.jpg",
+    "image_type": "Preprocessed",
+    "text": "HSy",
+    "confidence": 0.7035745752606593,
+    "time": 1.4805177000089316
+  },
+  {
+    "filename": "P0007.jpg",
+    "image_type": "Original",
+    "text": "MM",
+    "confidence": 0.9509610330914458,
+    "time": 1.491408899993985
+  },
+  {
+    "filename": "P0007.jpg",
+    "image_type": "Preprocessed",
+    "text": "MM",
+    "confidence": 0.8301312150996406,
+    "time": 1.4540262999944389
+  },
+  {
+    "filename": "P0008.jpg",
+    "image_type": "Original",
+    "text": "ftomt",
+    "confidence": 0.33916091639910817,
+    "time": 1.4818628999928478
+  },
+  {
+    "filename": "P0008.jpg",
+    "image_type": "Preprocessed",
+    "text": "fxomf",
+    "confidence": 0.19414702751643945,
+    "time": 1.493577599991113
+  },
+  {
+    "filename": "P0009.jpg",
+    "image_type": "Original",
+    "text": "Fyeokm",
+    "confidence": 0.19743520005978302,
+    "time": 1.527180799996131
+  },
+  {
+    "filename": "P0009.jpg",
+    "image_type": "Preprocessed",
+    "text": "Eyepkma",
+    "confidence": 0.34471851653307495,
+    "time": 1.4728858999878867
+  },
+  {
+    "filename": "P0010.jpg",
+    "image_type": "Original",
+    "text": "NApa",
+    "confidence": 0.20492784678936005,
+    "time": 1.575708400006988
+  },
+  {
+    "filename": "P0010.jpg",
+    "image_type": "Preprocessed",
+    "text": "Npa",
+    "confidence": 0.6950201275318972,
+    "time": 1.4619492000056198
+  },
+  {
+    "filename": "P0011.jpg",
+    "image_type": "Original",
+    "text": "Kacin'",
+    "confidence": 0.4968238471941639,
+    "time": 1.4577204999950482
+  },
+  {
+    "filename": "P0011.jpg",
+    "image_type": "Preprocessed",
+    "text": "Kacih'",
+    "confidence": 0.43111682091232395,
+    "time": 1.3929177999962121
+  },
+  {
+    "filename": "P0012.jpg",
+    "image_type": "Original",
+    "text": "bKtry",
+    "confidence": 0.3258328543259977,
+    "time": 1.4293015000002924
+  },
+  {
+    "filename": "P0012.jpg",
+    "image_type": "Preprocessed",
+    "text": "bflr",
+    "confidence": 0.17953552305698395,
+    "time": 1.4744193000078667
+  },
+  {
+    "filename": "P0013.jpg",
+    "image_type": "Original",
+    "text": "7lf",
+    "confidence": 0.2762710221722341,
+    "time": 1.4514880999922752
+  },
+  {
+    "filename": "P0013.jpg",
+    "image_type": "Preprocessed",
+    "text": "76f",
+    "confidence": 0.0789396500693956,
+    "time": 1.509275799995521
+  },
+  {
+    "filename": "P0014.jpg",
+    "image_type": "Original",
+    "text": "Yfin",
+    "confidence": 0.37412458658218384,
+    "time": 1.512731499999063
+  },
+  {
+    "filename": "P0014.jpg",
+    "image_type": "Preprocessed",
+    "text": "YJin",
+    "confidence": 0.1117682233452797,
+    "time": 1.531250200001523
+  },
+  {
+    "filename": "P0015.jpg",
+    "image_type": "Original",
+    "text": "Jxtx",
+    "confidence": 0.18248724937438965,
+    "time": 1.4468962999962969
+  },
+  {
+    "filename": "P0015.jpg",
+    "image_type": "Preprocessed",
+    "text": "Jxnx",
+    "confidence": 0.2721600649130653,
+    "time": 1.4426256000006106
+  },
+  {
+    "filename": "P0016.jpg",
+    "image_type": "Original",
+    "text": "Eyulix",
+    "confidence": 0.14587549529247248,
+    "time": 1.5947706000006292
+  },
+  {
+    "filename": "P0016.jpg",
+    "image_type": "Preprocessed",
+    "text": "Eyulux",
+    "confidence": 0.22456724140704387,
+    "time": 1.5974075999984052
+  },
+  {
+    "filename": "P0017.jpg",
+    "image_type": "Original",
+    "text": "InyyU_)",
+    "confidence": 0.12528427556803132,
+    "time": 1.3918387000012444
+  },
+  {
+    "filename": "P0017.jpg",
+    "image_type": "Preprocessed",
+    "text": "IhxyUiu)",
+    "confidence": 0.07319768216088786,
+    "time": 1.5940055999963079
+  },
+  {
+    "filename": "P0018.jpg",
+    "image_type": "Original",
+    "text": "Jelu ,",
+    "confidence": 0.2827049778654084,
+    "time": 1.5051228999946034
+  },
+  {
+    "filename": "P0018.jpg",
+    "image_type": "Preprocessed",
+    "text": "bef84 =",
+    "confidence": 0.23074528323810817,
+    "time": 1.400558399996953
+  },
+  {
+    "filename": "P0019.jpg",
+    "image_type": "Original",
+    "text": "HVp us",
+    "confidence": 0.27168989904472746,
+    "time": 1.4602867999929003
+  },
+  {
+    "filename": "P0019.jpg",
+    "image_type": "Preprocessed",
+    "text": "Fpp )s",
+    "confidence": 0.19389216129743106,
+    "time": 1.5117165999981808
+  },
+  {
+    "filename": "P0020.jpg",
+    "image_type": "Original",
+    "text": "pAphuh",
+    "confidence": 0.14434028042916627,
+    "time": 1.4982709000032628
+  },
+  {
+    "filename": "P0020.jpg",
+    "image_type": "Preprocessed",
+    "text": "pWpwhuh",
+    "confidence": 0.04451528936271742,
+    "time": 1.4980114999925718
+  },
+  {
+    "filename": "P0021.jpg",
+    "image_type": "Original",
+    "text": "(J\nWlhhu",
+    "confidence": 0.21157625721893608,
+    "time": 1.5508277000044473
+  },
+  {
+    "filename": "P0021.jpg",
+    "image_type": "Preprocessed",
+    "text": "(mMhnahh",
+    "confidence": 0.07091604511087557,
+    "time": 1.615487300005043
+  },
+  {
+    "filename": "P0022.jpg",
+    "image_type": "Original",
+    "text": "Oolouhn",
+    "confidence": 0.14038341917686328,
+    "time": 1.665678699995624
+  },
+  {
+    "filename": "P0022.jpg",
+    "image_type": "Preprocessed",
+    "text": "Ntolouhn",
+    "confidence": 0.12891769474897416,
+    "time": 1.5927167000045301
+  },
+  {
+    "filename": "P0023.jpg",
+    "image_type": "Original",
+    "text": "Xib bL",
+    "confidence": 0.06392061466710043,
+    "time": 1.814722499999334
+  },
+  {
+    "filename": "P0023.jpg",
+    "image_type": "Preprocessed",
+    "text": "Xlny;",
+    "confidence": 0.08900376385957942,
+    "time": 1.8504773999884492
+  },
+  {
+    "filename": "P0024.jpg",
+    "image_type": "Original",
+    "text": "Kr\n21",
+    "confidence": 0.17267825152365524,
+    "time": 2.229894100004458
+  },
+  {
+    "filename": "P0024.jpg",
+    "image_type": "Preprocessed",
+    "text": "Zhmodr",
+    "confidence": 0.053465695121668,
+    "time": 1.7712651000038022
+  },
+  {
+    "filename": "P0025.jpg",
+    "image_type": "Original",
+    "text": "KdrkX",
+    "confidence": 0.13759900970130415,
+    "time": 1.6460844999965047
+  },
+  {
+    "filename": "P0025.jpg",
+    "image_type": "Preprocessed",
+    "text": "Kdrcx",
+    "confidence": 0.09405538424267869,
+    "time": 1.8477499000000535
+  },
+  {
+    "filename": "P0026.jpg",
+    "image_type": "Original",
+    "text": "paiu",
+    "confidence": 0.13271244714950198,
+    "time": 1.709372400000575
+  },
+  {
+    "filename": "P0026.jpg",
+    "image_type": "Preprocessed",
+    "text": "Panes",
+    "confidence": 0.13552190473673786,
+    "time": 1.5898083000065526
+  },
+  {
+    "filename": "P0027.jpg",
+    "image_type": "Original",
+    "text": "Nhamx)",
+    "confidence": 0.19704593336997475,
+    "time": 1.7995959999971092
+  },
+  {
+    "filename": "P0027.jpg",
+    "image_type": "Preprocessed",
+    "text": "Nhamn)",
+    "confidence": 0.34531292087294563,
+    "time": 1.7760866000025999
+  },
+  {
+    "filename": "P0028.jpg",
+    "image_type": "Original",
+    "text": "AlJ",
+    "confidence": 0.1826409197456822,
+    "time": 1.5393500000063796
+  },
+  {
+    "filename": "P0028.jpg",
+    "image_type": "Preprocessed",
+    "text": "ALJa",
+    "confidence": 0.07857652008533478,
+    "time": 1.5647774999961257
+  },
+  {
+    "filename": "P0029.jpg",
+    "image_type": "Original",
+    "text": "lwk",
+    "confidence": 0.3831696643652663,
+    "time": 1.4961732999945525
+  },
+  {
+    "filename": "P0029.jpg",
+    "image_type": "Preprocessed",
+    "text": "lwvk",
+    "confidence": 0.12438511103391647,
+    "time": 1.5863703999930294
+  },
+  {
+    "filename": "P0030.jpg",
+    "image_type": "Original",
+    "text": "bk",
+    "confidence": 0.35508622683853786,
+    "time": 1.5249066999967908
+  },
+  {
+    "filename": "P0030.jpg",
+    "image_type": "Preprocessed",
+    "text": "buyk",
+    "confidence": 0.11519903689622879,
+    "time": 1.480302500000107
+  },
+  {
+    "filename": "P0031.jpg",
+    "image_type": "Original",
+    "text": "Ay\"s",
+    "confidence": 0.07436195015907288,
+    "time": 1.6331725000054576
+  },
+  {
+    "filename": "P0031.jpg",
+    "image_type": "Preprocessed",
+    "text": "PebNs",
+    "confidence": 0.0462300942839872,
+    "time": 1.556345799996052
+  },
+  {
+    "filename": "P0032.jpg",
+    "image_type": "Original",
+    "text": "Mcdrayd|",
+    "confidence": 0.06797703340015461,
+    "time": 1.5042092000076082
+  },
+  {
+    "filename": "P0032.jpg",
+    "image_type": "Preprocessed",
+    "text": "Medroyd",
+    "confidence": 0.26183876829515024,
+    "time": 1.514415600002394
+  },
+  {
+    "filename": "P0033.jpg",
+    "image_type": "Original",
+    "text": "MyokH",
+    "confidence": 0.19121068212439576,
+    "time": 1.554438699997263
+  },
+  {
+    "filename": "P0033.jpg",
+    "image_type": "Preprocessed",
+    "text": "MyowH",
+    "confidence": 0.1697317923995628,
+    "time": 1.487263700008043
+  },
+  {
+    "filename": "P0034.jpg",
+    "image_type": "Original",
+    "text": "Furocel",
+    "confidence": 0.4938700695591333,
+    "time": 1.383527200014214
+  },
+  {
+    "filename": "P0034.jpg",
+    "image_type": "Preprocessed",
+    "text": "Furoce",
+    "confidence": 0.46799703223332145,
+    "time": 1.4343522999988636
+  },
+  {
+    "filename": "P0035.jpg",
+    "image_type": "Original",
+    "text": "To\nMN",
+    "confidence": 0.5538960119761266,
+    "time": 1.5402964999957476
+  },
+  {
+    "filename": "P0035.jpg",
+    "image_type": "Preprocessed",
+    "text": "To\nAN'",
+    "confidence": 0.5266505319005974,
+    "time": 1.5749869999999646
+  },
+  {
+    "filename": "P0036.jpg",
+    "image_type": "Original",
+    "text": "Dpxht",
+    "confidence": 0.1367728355976276,
+    "time": 1.4217370999976993
+  },
+  {
+    "filename": "P0036.jpg",
+    "image_type": "Preprocessed",
+    "text": "Dpxfao",
+    "confidence": 0.2136703621382332,
+    "time": 1.501281700009713
+  },
+  {
+    "filename": "P0037.jpg",
+    "image_type": "Original",
+    "text": " Lwlm",
+    "confidence": 0.15807057172809527,
+    "time": 1.4950288999971235
+  },
+  {
+    "filename": "P0037.jpg",
+    "image_type": "Preprocessed",
+    "text": " Llm",
+    "confidence": 0.17663243412971497,
+    "time": 1.3971365000033984
+  },
+  {
+    "filename": "P0038.jpg",
+    "image_type": "Original",
+    "text": "LMl",
+    "confidence": 0.2983882740153501,
+    "time": 1.4012144000007538
+  },
+  {
+    "filename": "P0038.jpg",
+    "image_type": "Preprocessed",
+    "text": "Ml",
+    "confidence": 0.5334543789103957,
+    "time": 1.4560943000105908
+  },
+  {
+    "filename": "P0039.jpg",
+    "image_type": "Original",
+    "text": "Sardin'",
+    "confidence": 0.48757125588267397,
+    "time": 1.4912769999937154
+  },
+  {
+    "filename": "P0039.jpg",
+    "image_type": "Preprocessed",
+    "text": "Sunin:",
+    "confidence": 0.27164870563217747,
+    "time": 1.4394591000018409
+  },
+  {
+    "filename": "P0040.jpg",
+    "image_type": "Original",
+    "text": "Paloxi",
+    "confidence": 0.22132454378068614,
+    "time": 1.3447753000073135
+  },
+  {
+    "filename": "P0040.jpg",
+    "image_type": "Preprocessed",
+    "text": "Paoxi",
+    "confidence": 0.09932146974774307,
+    "time": 1.510515600006329
+  },
+  {
+    "filename": "P0041.jpg",
+    "image_type": "Original",
+    "text": "Dmin",
+    "confidence": 0.9029365461906743,
+    "time": 1.4632778000086546
+  },
+  {
+    "filename": "P0041.jpg",
+    "image_type": "Preprocessed",
+    "text": "Domin",
+    "confidence": 0.3626663532804216,
+    "time": 1.5058350999897812
+  },
+  {
+    "filename": "P0042.jpg",
+    "image_type": "Original",
+    "text": "Kerd",
+    "confidence": 0.528655469417572,
+    "time": 1.498030100003234
+  },
+  {
+    "filename": "P0042.jpg",
+    "image_type": "Preprocessed",
+    "text": "Gny",
+    "confidence": 0.12974595646177423,
+    "time": 1.536898900012602
+  },
+  {
+    "filename": "P0043.jpg",
+    "image_type": "Original",
+    "text": "(Lua",
+    "confidence": 0.2582913935184479,
+    "time": 1.4502553999918746
+  },
+  {
+    "filename": "P0043.jpg",
+    "image_type": "Preprocessed",
+    "text": "(oUa",
+    "confidence": 0.06438910961151123,
+    "time": 1.4923374000063632
+  },
+  {
+    "filename": "P0044.jpg",
+    "image_type": "Original",
+    "text": "Kttotuc ",
+    "confidence": 0.20240135382778277,
+    "time": 1.4150799000053667
+  },
+  {
+    "filename": "P0044.jpg",
+    "image_type": "Preprocessed",
+    "text": "Mtoq4t]",
+    "confidence": 0.051148991532817246,
+    "time": 1.5301310999930138
+  },
+  {
+    "filename": "P0045.jpg",
+    "image_type": "Original",
+    "text": "Dohuay",
+    "confidence": 0.07365674414984141,
+    "time": 1.5048133000091184
+  },
+  {
+    "filename": "P0045.jpg",
+    "image_type": "Preprocessed",
+    "text": "Doskap",
+    "confidence": 0.19140742688204468,
+    "time": 1.459664599999087
+  },
+  {
+    "filename": "P0046.jpg",
+    "image_type": "Original",
+    "text": "Xpq",
+    "confidence": 0.37046949153128783,
+    "time": 1.4461392000084743
+  },
+  {
+    "filename": "P0046.jpg",
+    "image_type": "Preprocessed",
+    "text": "Xpq",
+    "confidence": 0.42479082597699697,
+    "time": 1.4508281000016723
+  },
+  {
+    "filename": "P0047.jpg",
+    "image_type": "Original",
+    "text": "Onwp",
+    "confidence": 0.052448272705078125,
+    "time": 1.4656378000072436
+  },
+  {
+    "filename": "P0047.jpg",
+    "image_type": "Preprocessed",
+    "text": "(nud",
+    "confidence": 0.06830507516860962,
+    "time": 1.4866467999963788
+  },
+  {
+    "filename": "P0048.jpg",
+    "image_type": "Original",
+    "text": ")ouyta? ",
+    "confidence": 0.11248555329797769,
+    "time": 1.450738999992609
+  },
+  {
+    "filename": "P0048.jpg",
+    "image_type": "Preprocessed",
+    "text": ")ou4tsp",
+    "confidence": 0.04227086366610768,
+    "time": 1.5299220000015339
+  },
+  {
+    "filename": "P0049.jpg",
+    "image_type": "Original",
+    "text": "Rokc",
+    "confidence": 0.2706892788410187,
+    "time": 1.4211642000009306
+  },
+  {
+    "filename": "P0049.jpg",
+    "image_type": "Preprocessed",
+    "text": "Rolge",
+    "confidence": 0.10728138477074571,
+    "time": 1.425582800002303
+  },
+  {
+    "filename": "P0050.jpg",
+    "image_type": "Original",
+    "text": "OMep",
+    "confidence": 0.33362460136413574,
+    "time": 1.4965875999914715
+  },
+  {
+    "filename": "P0050.jpg",
+    "image_type": "Preprocessed",
+    "text": "0\nMep",
+    "confidence": 0.5935869572463931,
+    "time": 1.5586697999970056
+  }
+]

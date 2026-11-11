@@ -1,0 +1,44 @@
+# Python environments
+venv/
+paddle_env/
+__pycache__/
+*.py[cod]
+
+# Dataset images and raw datasets
+dataset/RxHandBD_Datasets/
+dataset/Mendeley_prescription_Dataset/
+dataset/prescription_images/
+dataset/ground_truth/
+dataset/test_data/
+
+# Keep medicine reference database
+!dataset/medicine_database/
+!dataset/medicine_database/*.csv
+
+# Keep evaluation evidence
+!results/evaluation/
+!results/evaluation/*.csv
+!results/evaluation/*.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+*.tmp
+
+# Generated uploads and OCR output
+results/uploads/
+results/ocr_output/
+
+# Local system files
+.DS_Store
+Thumbs.db~$* 
+dataset/medicine_database/medicine_master.csv
+dataset/medicine_database/medicine_master.xlsx
+dataset/medicine_database/~$*
+results/preprocesed/
+results/preprocessed/
+results/evaluation/preprocessed/
+error_log.txt
+python

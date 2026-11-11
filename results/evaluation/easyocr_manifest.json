@@ -1,0 +1,502 @@
+[
+  {
+    "filename": "P0001.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0001.jpg"
+  },
+  {
+    "filename": "P0001.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0001.jpg"
+  },
+  {
+    "filename": "P0002.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0002.jpg"
+  },
+  {
+    "filename": "P0002.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0002.jpg"
+  },
+  {
+    "filename": "P0003.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0003.jpg"
+  },
+  {
+    "filename": "P0003.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0003.jpg"
+  },
+  {
+    "filename": "P0004.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0004.jpg"
+  },
+  {
+    "filename": "P0004.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0004.jpg"
+  },
+  {
+    "filename": "P0005.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0005.jpg"
+  },
+  {
+    "filename": "P0005.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0005.jpg"
+  },
+  {
+    "filename": "P0006.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0006.jpg"
+  },
+  {
+    "filename": "P0006.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0006.jpg"
+  },
+  {
+    "filename": "P0007.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0007.jpg"
+  },
+  {
+    "filename": "P0007.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0007.jpg"
+  },
+  {
+    "filename": "P0008.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0008.jpg"
+  },
+  {
+    "filename": "P0008.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0008.jpg"
+  },
+  {
+    "filename": "P0009.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0009.jpg"
+  },
+  {
+    "filename": "P0009.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0009.jpg"
+  },
+  {
+    "filename": "P0010.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0010.jpg"
+  },
+  {
+    "filename": "P0010.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0010.jpg"
+  },
+  {
+    "filename": "P0011.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0011.jpg"
+  },
+  {
+    "filename": "P0011.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0011.jpg"
+  },
+  {
+    "filename": "P0012.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0012.jpg"
+  },
+  {
+    "filename": "P0012.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0012.jpg"
+  },
+  {
+    "filename": "P0013.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0013.jpg"
+  },
+  {
+    "filename": "P0013.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0013.jpg"
+  },
+  {
+    "filename": "P0014.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0014.jpg"
+  },
+  {
+    "filename": "P0014.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0014.jpg"
+  },
+  {
+    "filename": "P0015.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0015.jpg"
+  },
+  {
+    "filename": "P0015.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0015.jpg"
+  },
+  {
+    "filename": "P0016.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0016.jpg"
+  },
+  {
+    "filename": "P0016.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0016.jpg"
+  },
+  {
+    "filename": "P0017.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0017.jpg"
+  },
+  {
+    "filename": "P0017.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0017.jpg"
+  },
+  {
+    "filename": "P0018.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0018.jpg"
+  },
+  {
+    "filename": "P0018.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0018.jpg"
+  },
+  {
+    "filename": "P0019.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0019.jpg"
+  },
+  {
+    "filename": "P0019.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0019.jpg"
+  },
+  {
+    "filename": "P0020.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0020.jpg"
+  },
+  {
+    "filename": "P0020.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0020.jpg"
+  },
+  {
+    "filename": "P0021.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0021.jpg"
+  },
+  {
+    "filename": "P0021.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0021.jpg"
+  },
+  {
+    "filename": "P0022.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0022.jpg"
+  },
+  {
+    "filename": "P0022.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0022.jpg"
+  },
+  {
+    "filename": "P0023.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0023.jpg"
+  },
+  {
+    "filename": "P0023.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0023.jpg"
+  },
+  {
+    "filename": "P0024.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0024.jpg"
+  },
+  {
+    "filename": "P0024.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0024.jpg"
+  },
+  {
+    "filename": "P0025.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0025.jpg"
+  },
+  {
+    "filename": "P0025.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0025.jpg"
+  },
+  {
+    "filename": "P0026.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0026.jpg"
+  },
+  {
+    "filename": "P0026.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0026.jpg"
+  },
+  {
+    "filename": "P0027.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0027.jpg"
+  },
+  {
+    "filename": "P0027.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0027.jpg"
+  },
+  {
+    "filename": "P0028.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0028.jpg"
+  },
+  {
+    "filename": "P0028.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0028.jpg"
+  },
+  {
+    "filename": "P0029.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0029.jpg"
+  },
+  {
+    "filename": "P0029.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0029.jpg"
+  },
+  {
+    "filename": "P0030.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0030.jpg"
+  },
+  {
+    "filename": "P0030.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0030.jpg"
+  },
+  {
+    "filename": "P0031.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0031.jpg"
+  },
+  {
+    "filename": "P0031.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0031.jpg"
+  },
+  {
+    "filename": "P0032.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0032.jpg"
+  },
+  {
+    "filename": "P0032.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0032.jpg"
+  },
+  {
+    "filename": "P0033.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0033.jpg"
+  },
+  {
+    "filename": "P0033.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0033.jpg"
+  },
+  {
+    "filename": "P0034.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0034.jpg"
+  },
+  {
+    "filename": "P0034.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0034.jpg"
+  },
+  {
+    "filename": "P0035.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0035.jpg"
+  },
+  {
+    "filename": "P0035.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0035.jpg"
+  },
+  {
+    "filename": "P0036.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0036.jpg"
+  },
+  {
+    "filename": "P0036.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0036.jpg"
+  },
+  {
+    "filename": "P0037.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0037.jpg"
+  },
+  {
+    "filename": "P0037.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0037.jpg"
+  },
+  {
+    "filename": "P0038.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0038.jpg"
+  },
+  {
+    "filename": "P0038.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0038.jpg"
+  },
+  {
+    "filename": "P0039.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0039.jpg"
+  },
+  {
+    "filename": "P0039.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0039.jpg"
+  },
+  {
+    "filename": "P0040.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0040.jpg"
+  },
+  {
+    "filename": "P0040.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0040.jpg"
+  },
+  {
+    "filename": "P0041.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0041.jpg"
+  },
+  {
+    "filename": "P0041.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0041.jpg"
+  },
+  {
+    "filename": "P0042.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0042.jpg"
+  },
+  {
+    "filename": "P0042.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0042.jpg"
+  },
+  {
+    "filename": "P0043.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0043.jpg"
+  },
+  {
+    "filename": "P0043.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0043.jpg"
+  },
+  {
+    "filename": "P0044.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0044.jpg"
+  },
+  {
+    "filename": "P0044.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0044.jpg"
+  },
+  {
+    "filename": "P0045.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0045.jpg"
+  },
+  {
+    "filename": "P0045.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0045.jpg"
+  },
+  {
+    "filename": "P0046.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0046.jpg"
+  },
+  {
+    "filename": "P0046.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0046.jpg"
+  },
+  {
+    "filename": "P0047.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0047.jpg"
+  },
+  {
+    "filename": "P0047.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0047.jpg"
+  },
+  {
+    "filename": "P0048.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0048.jpg"
+  },
+  {
+    "filename": "P0048.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0048.jpg"
+  },
+  {
+    "filename": "P0049.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0049.jpg"
+  },
+  {
+    "filename": "P0049.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0049.jpg"
+  },
+  {
+    "filename": "P0050.jpg",
+    "image_type": "Original",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\dataset\\RxHandBD_Datasets\\RxHandBD_ML\\RxHandBD-ML\\Test_Set\\P0050.jpg"
+  },
+  {
+    "filename": "P0050.jpg",
+    "image_type": "Preprocessed",
+    "path": "C:\\Users\\DELL\\Desktop\\Doctor_prescription_recognition_v2\\results\\evaluation\\preprocessed\\P0050.jpg"
+  }
+]
